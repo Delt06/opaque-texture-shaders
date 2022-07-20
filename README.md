@@ -15,3 +15,7 @@ A collection of Unity shaders relying on Opaque Texture (Camera Color Texture).
 Spawns a temporary screens-space distortion effect on each click.
 
 ![Shockwave](Documentation/shockwave.gif)
+
+- Black Hole (ShaderLab/HLSL)
+
+![Black Hole](Documentation/black_hole.gif)
