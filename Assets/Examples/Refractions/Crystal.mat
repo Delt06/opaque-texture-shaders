@@ -44,9 +44,11 @@ Material:
     m_Floats:
     - _Alpha: 1
     - _FresnelPower: 2.3
+    - _Metallic: 0.196
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RefractionStrength: 0.025
+    - _Smoothness: 0.519
     m_Colors:
     - _Emission: {r: 0.23037559, g: 0.05931826, b: 0.2924528, a: 1}
     - _FresnelColor: {r: 0.23137255, g: 0.05882353, b: 0.29411766, a: 1}
